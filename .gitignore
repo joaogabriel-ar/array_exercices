@@ -1,0 +1,16 @@
+# Ignore object files
+*.o
+
+# Ignore compiled dynamic libraries
+*.so
+
+# Ignore compiled static libraries
+*.a
+
+# Ignore compiled executables
+*.exe
+*.out
+*.dll
+
+# Ignore other common build artifacts
+*.dSYM/
